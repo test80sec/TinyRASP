@@ -2,6 +2,13 @@
        src="http://www.wtfpl.net/wp-content/uploads/2012/12/wtfpl-badge-4.png"
        width="80" height="15" alt="WTFPL" />
 </a>
+<div align="center">
+<a href="https://join.skype.com/invite/khkuItT3QBga">
+       
+![image](https://github.com/user-attachments/assets/61ea2f2d-0f0d-4bf9-b199-f41decebdbf6)
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=500&color=A9051A&center=true&vCenter=true&multiline=true&width=435&height=60&lines=%E5%8A%A0%E5%85%A5%E6%AD%A4%E9%A1%B9%E7%9B%AE;%E5%9C%A8%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8%E7%95%99%E4%B8%8B%E4%BD%A0%E7%9A%84%E8%B6%B3%E8%BF%B9(%F0%9F%92%A9%F0%9F%8C%8B)" alt="Typing SVG" /></a>
+</div>
 
 # TinyRASP
 
